@@ -1,0 +1,5 @@
+@import "normalize.css/normalize.css";
+@import "./var.pcss";
+@import "./fonts.css";
+@import "./main-page.pcss";
+@import "./media.pcss";
